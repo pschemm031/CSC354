@@ -13,6 +13,7 @@
 		<!-- Frameworks -->
 		<script type="text/javascript" src="htdocs/js/frameworks/jquery.min.js"></script>
 		<script type="text/javascript" src="htdocs/js/frameworks/jquery.mobile.min.js"></script>
+		<script type="text/javascript" src="htdocs/js/frameworks/bootstrap.min.js"></script>
 		
 		<!-- Framework Styles -->
 		<link type="text/css" rel="stylesheet" href="htdocs/css/frameworks/jquery.mobile.min.css" />
