@@ -9,6 +9,8 @@
 		<input type="password" id="login_password" name="login_password" />
 		<a data-role="button">Login</a>
 		<a data-role="button" href="#p_register">Sign Up</a>
+		<fb:login-button show-faces="true" width="200" max-rows="1"></fb:login-button>
+
 	</div>
 	<div data-role="footer">
 	
